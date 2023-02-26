@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63e59352-7e4b-463e-b49c-a81e463cf42d" name="Changes" comment="bai tap 2">
-      <change afterPath="$PROJECT_DIR$/src/_interface/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_interface/IShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_interface/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_interface/ShowShape.java" afterDir="false" />
+    <list default="true" id="63e59352-7e4b-463e-b49c-a81e463cf42d" name="Changes" comment="bai tap new Ishape">
+      <change afterPath="$PROJECT_DIR$/src/_IEmployee/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_IEmployee/FullTimeEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_IEmployee/IEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_IEmployee/PartTimeEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_IEmployee/TestEmployee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestEmployee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,13 +82,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677251467168</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="bai tap new Ishape">
+      <created>1677253255067</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677253255067</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="bai tap 29" />
     <MESSAGE value="bai tap 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="bai tap 2" />
+    <MESSAGE value="bai tap new Ishape" />
+    <option name="LAST_COMMIT_MESSAGE" value="bai tap new Ishape" />
   </component>
 </project>
