@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63e59352-7e4b-463e-b49c-a81e463cf42d" name="Changes" comment="bai tap new Ishape">
-      <change afterPath="$PROJECT_DIR$/src/_IEmployee/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_IEmployee/FullTimeEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_IEmployee/IEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_IEmployee/PartTimeEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_IEmployee/TestEmployee.java" afterDir="false" />
+    <list default="true" id="63e59352-7e4b-463e-b49c-a81e463cf42d" name="Changes" comment="bai tap new interface">
+      <change afterPath="$PROJECT_DIR$/src/Pizza/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pizza/IShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pizza/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pizza/PizzaClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pizza/PizzaDeal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pizza/Rectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestEmployee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,12 +45,18 @@
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Advice/Desktop/sqljdbc_12.2.0.0_enu/sqljdbc_12.2/enu/mssql-jdbc-12.2.0.jre11.jar&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Advice/Documents/bt e/src/_interface&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Advice\Documents\bt e\src\_interface" />
+      <recent name="C:\Users\Advice\Documents\bt e\src\_IEmployee" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -89,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677253255067</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="bai tap new interface">
+      <created>1677417578635</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677417578635</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -97,6 +109,7 @@
     <MESSAGE value="bai tap 29" />
     <MESSAGE value="bai tap 2" />
     <MESSAGE value="bai tap new Ishape" />
-    <option name="LAST_COMMIT_MESSAGE" value="bai tap new Ishape" />
+    <MESSAGE value="bai tap new interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="bai tap new interface" />
   </component>
 </project>
