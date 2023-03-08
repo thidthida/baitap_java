@@ -12,6 +12,6 @@ public class Rectangle implements IShape{
         return _width*_height;
     }
     public String toString(){
-        return "Rectangle(h = " + _height + ", w = " + _width + ")";
+        return "Rectangle(h = " + _width + ", w = " + _height + ")";
     }
 }

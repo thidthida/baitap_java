@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63e59352-7e4b-463e-b49c-a81e463cf42d" name="Changes" comment="bai tap new interface">
-      <change afterPath="$PROJECT_DIR$/src/Pizza/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pizza/IShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pizza/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pizza/PizzaClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pizza/PizzaDeal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pizza/Rectangle.java" afterDir="false" />
+    <list default="true" id="63e59352-7e4b-463e-b49c-a81e463cf42d" name="Changes" comment="bai tap Pizza">
+      <change afterPath="$PROJECT_DIR$/src/Shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shape/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shape/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shape/TestAbstractShape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pizza/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pizza/Rectangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +45,7 @@
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Advice/Documents/bt e/src/_interface&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Advice/Documents/bt e/src/Pizza&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
@@ -53,9 +53,30 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Advice\Documents\bt e\src\Pizza" />
       <recent name="C:\Users\Advice\Documents\bt e\src\_interface" />
       <recent name="C:\Users\Advice\Documents\bt e\src\_IEmployee" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestAbstractShape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shape.TestAbstractShape" />
+      <module name="bt e" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Shape.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestAbstractShape" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -101,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677417578635</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="bai tap Pizza">
+      <created>1678011671245</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678011671246</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -110,6 +138,7 @@
     <MESSAGE value="bai tap 2" />
     <MESSAGE value="bai tap new Ishape" />
     <MESSAGE value="bai tap new interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="bai tap new interface" />
+    <MESSAGE value="bai tap Pizza" />
+    <option name="LAST_COMMIT_MESSAGE" value="bai tap Pizza" />
   </component>
 </project>
