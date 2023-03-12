@@ -1,6 +1,6 @@
 package Shape;
 
-public abstract class Rectangle extends Shape{
+public class Rectangle extends Shape{
     double width;
     double length;
 
@@ -22,19 +22,17 @@ public abstract class Rectangle extends Shape{
         this.length = length;
     }
 
-    public double getSide() {
+    public double getWidth() {
         return width;
-    }
-
-    public void setSide(double side) {
-        this.width = side;
     }
 
     public double getLength() {
         return length;
     }
 
-    public abstract void setWidth(double side);
+    public void setWidth(double side){
+        this.width = width;
+    }
 
     public void setLength(double length) {
         this.length = length;
@@ -47,7 +45,7 @@ public abstract class Rectangle extends Shape{
 
     @Override
     public double getPerimeter() {
-        return width + length * 2;
+        return (width + length) * 2;
     }
 
     @Override
