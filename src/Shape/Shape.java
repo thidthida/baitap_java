@@ -13,8 +13,12 @@ public abstract class Shape {
         this.filled = filled;
     }
 
-    public abstract double getArea();
-    public abstract double getPerimeter();
+    public double getArea(){
+        return 0;
+    }
+    public double getPerimeter(){
+        return 0;
+    }
 
     @Override
     public String toString() {
